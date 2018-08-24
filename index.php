@@ -24,6 +24,7 @@
  *	\brief      Dolibarr home page
  */
 
+ //demo text added
 define('NOCSRFCHECK',1);	// This is main home and login page. We must be able to go on it from another web site.
 
 require 'main.inc.php';
